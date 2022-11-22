@@ -4,9 +4,13 @@
 Final Assignment C/C++
 
 ## The ticket generator you made in C should be turned into a C++ version.
-You should create a repository named ticket-system.
+You should create a repository for your ticket-system.
 The code should be commented in a way that doxygen could produce a nice output for your software (html, pdf is a bonus).
 Your software should use C++ features where appropriate.
+
+***Fork the https://github.com/michellundell/14a repository and update the final-assignment.txt file
+Then make a pull-request and I can start evaluating your system.***
+
 
 ## The ticket program
 
@@ -362,9 +366,6 @@ economy class
 ### 8. Create flag to the program that specify that a test of classes and other code in the program.
 It should print what tests are done and if they pass on stdout. If all tests pass the program should return 0, else -1.
 
-
-## Fork the https://github.com/michellundell/14a repository and update the final-assignment.txt file
-Then make a pull-request and I can start evaluating your system.
 
 
 
