@@ -8,7 +8,7 @@ You should create a repository for your ticket-system.
 The code should be commented in a way that doxygen could produce a nice output for your software (html, pdf is a bonus).
 Your software should use C++ features where appropriate.
 
-***Fork the https://github.com/michellundell/14a repository and update the final-assignment.txt file
+***When you are finished, fork the https://github.com/michellundell/14a repository and update the final-assignment.txt file
 Then make a pull-request and I can start evaluating your system.***
 
 
