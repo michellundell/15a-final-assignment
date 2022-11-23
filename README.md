@@ -316,7 +316,7 @@ void print_ticket(BookingListNode *blnp, FlightListNode *flnp,int seat,int row)
 Beside that the code should work e.g create tickets for bookings. A higher grade will be granted if some of the
 following criterias are met.
 
-### 1. The code looks nice and is well indeted and commented in a way that Doxygen can produce documentation for the system.
+### 1. The code looks nice and is well indented and commented in a way that Doxygen can produce documentation for the system.
 
 ### 2. Actions added to the repository that compiles and checks the code for errors and flaws.
 
