@@ -368,4 +368,21 @@ It should print what tests are done and if they pass on stdout. If all tests pas
 
 
 
-
+## Hints för högre betyg ...
+```
+C/C++ Betyg
+Creates tickets?
+Student unique design?
+Have flags?
+Have cancelled flights?
+Have seatmap?
+Is a C++ program?
+Produce a documentation?
+Have separate C++ sources and headers?
+Using C++ Classes?
+Have separate C++ Class sources and headers?
+Using C++ std::objects?
+Using C++ templates?
+Using C++ try-catch?
+Using C++ inheritance?
+```
