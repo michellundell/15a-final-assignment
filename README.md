@@ -20,10 +20,19 @@ The first argument is a file with flight information.
 The second argument is a file with booking information.
 Your program should create files with a ticket for each booking.
 ```
+**Compiling the program**
+
+```
+make
+```
 
 **Example running the program:**
 ```
 ticketsystem flights.csv booking.csv
+
+or
+
+make run
 ```
 
 **Will produce the files:**
@@ -371,6 +380,8 @@ It should print what tests are done and if they pass on stdout. If all tests pas
 ## Hints för högre betyg ...
 ```
 C/C++ Betyg
+Have a informative README.md in the repository?
+Have a Makefile?
 Creates tickets?
 Student unique design?
 Have flags?
