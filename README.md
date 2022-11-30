@@ -391,7 +391,6 @@ Is a C++ program?
 Produce a documentation?
 Have separate C++ sources and headers?
 Using C++ Classes?
-Have separate C++ Class sources and headers?
 Using C++ std::objects?
 Using C++ templates?
 Using C++ try-catch?
